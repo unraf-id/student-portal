@@ -11,12 +11,12 @@ export default function Background({
   });
 
   const images = [
-    "images/illustration1.JPG",
-    "images/illustration2.JPG",
-    "images/illustration3.JPG",
-    "images/illustration4.JPG",
-    "images/illustration5.JPEG",
-    "images/illustration6.JPG"
+    "images/illustration1.jpg",
+    "images/illustration2.jpg",
+    "images/illustration3.jpg",
+    "images/illustration4.jpg",
+    "images/illustration5.jpeg",
+    "images/illustration6.jpg"
   ];
 
   return (
